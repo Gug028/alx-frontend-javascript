@@ -1,0 +1,3 @@
+// test.js
+const path = require('path');
+console.log(path.resolve('.'));
